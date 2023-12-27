@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "627328711986",
+    "firebase_url": "https://quantai-3ecae-default-rtdb.firebaseio.com",
+    "project_id": "quantai-3ecae",
+    "storage_bucket": "quantai-3ecae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627328711986:android:7a0fc702f2d76434d02b2b",
+        "android_client_info": {
+          "package_name": "com.QuantAi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqSbdkTNdPzAH6sRUE42oHoW8B5o50ZAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
